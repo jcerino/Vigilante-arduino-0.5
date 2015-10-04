@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Vigilante 0.5</string>
+    <string name="action_config">Configurar</string>
+    <string name="title_activity_device_list">DeviceList</string>
+
+    <string name="hello_world">Lista</string>
+    <string name="action_settings">Actualizar</string>
+</resources>
